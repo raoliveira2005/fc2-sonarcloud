@@ -18,3 +18,7 @@ func sub(a int, b int) int {
 func div(a int, b int) int {
 	return a / b
 }
+
+func mult(a int, b int) int {
+	return a / b
+}
